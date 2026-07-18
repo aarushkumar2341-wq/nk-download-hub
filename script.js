@@ -15,11 +15,3 @@ search.addEventListener("keyup", function () {
     }
   });
 });
-
-// Download Button
-document.querySelectorAll(".card a").forEach(btn => {
-  btn.addEventListener("click", function (e) {
-    e.preventDefault();
-    alert("Replace this button with your APK or Play Store download link.");
-  });
-});
