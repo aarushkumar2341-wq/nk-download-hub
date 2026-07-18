@@ -63,6 +63,13 @@ text-align:center;
 }
 
 .card img{
+    width:70px;
+    height:70px;
+    object-fit:contain;
+    object-position:center;
+    display:block;
+    margin:0 auto 10px;
+}
 width:70px;
 height:70px;
 object-fit:contain;
